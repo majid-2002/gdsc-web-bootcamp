@@ -1,0 +1,17 @@
+body{
+    background-image: url(/backgorund/images/image1.jpg);
+    background-size: 200px;
+}
+
+h1{
+    color: white;
+
+}
+
+body{
+    background: rgb(60,233,229);
+    height: 50vh;
+    width: 100vw;
+    background-repeat: no-repeat;
+    background: linear-gradient(173deg, rgba(60,233,229,1) 50%, rgba(138,255,77,1) 100%);
+}

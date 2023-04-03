@@ -1,0 +1,42 @@
+- what is html?
+- html tags (head, body, title, div, span)
+- html headings (h1 - h6)
+- html paragraphs (p)
+- html (hr)
+- html (br)
+- html formatting (<b> <strong> <i> <em> <mark> <small> <del> <ins> <sub> <sup>)
+- html comments (<!-- -->)
+- html attributes (href, src, alt)
+- html links (a)
+- html bookmarking (#home, id = "home")
+- html (img src = "image.jpg" alt = "image")
+- html (table, rowspan , colspan)
+- html (list, ol, ul, li)
+- html (code tag)
+- html layout tags (header, section, nav, article , aside, footer )
+- html form
+- html form input (text, radio, checkbox, button, submit)
+- html media queries (video, audio)
+- html (iframes)
+- html (favicon)
+- html styles
+
+
+- What is CSS?
+- CSS (inline , internal , exteral css)
+- CSS (specificity )
+- CSS (comments)
+- CSS syntax (selectors, properties, values)
+- CSS colors (hexadecimal, rgb)
+- CSS backgrounds (color, image, repeat, cover)
+- CSS border (dotted , solid , double, dashed)
+- CSS (height, width)
+- CSS units (pixels, ems, rems, percentages, viewport)
+- CSS box model (margin, padding, border, content)
+- CSS text (align , indent, line-height, letter-spacing, word-spacing, text-decoration)
+- CSS fonts (font-family, font-size, font-weight, googlefonts adding)
+- CSS display (block, inline, none)
+- CSS floats (left, right)
+- CSS positioning (static, relative, absolute, fixed)
+- CSS flexBox (flex container, flex items, justify-content, align-items)
+- Bootsrap

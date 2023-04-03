@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+body{
+    font-family: sans-serif;
+}
+
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    color: white;
+    padding: 40px;
+    font-size: 2rem;
+    float: right;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.box-two{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    color: white;
+    padding: 40px;
+    font-size: 2rem;
+    float: left;
+    margin-right: 20px;
+}
+
+p{
+    font-size: 1.5rem;
+    text-align: justify;
+    padding-bottom: 20px;
+}
+

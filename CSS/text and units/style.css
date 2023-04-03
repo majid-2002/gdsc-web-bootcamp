@@ -1,0 +1,23 @@
+:root{
+    border: 2px solid black;
+    font-size: 10px;
+}
+
+
+h1{
+    font-size: 1rem;
+    
+}
+
+p{
+    height: 200px;
+}
+
+.container{
+    width: 20vw;
+    height: 20vh;
+    background-color: yellow;
+    border: solid 2px black;
+}
+
+

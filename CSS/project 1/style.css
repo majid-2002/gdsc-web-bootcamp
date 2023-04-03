@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+    background-color: #f0f0f0;
+}
+
+
+nav{
+    background-color: #000;
+    padding: 0.5em;
+
+}
+
+
+
+ul li{
+    list-style: none;
+    display: inline-block;
+    color: #fff;
+    font-size: 1.5rem;
+    margin-right: 20px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.card{
+    width: 20vw;
+    height: 30vh;
+    background-color: gray;
+    margin-top: 20px;
+    border-radius: 20px;
+    color: white;
+    padding-inline: 20px;
+}
+
+
+.card p{
+    text-align: justify;
+}
+
+
+.card button{
+    padding: 10px;
+    display: block;
+    margin: 0 auto;
+    border-radius: 10px;
+    background-color: rgb(80, 80, 232);
+    color: white;
+}

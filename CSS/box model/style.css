@@ -1,0 +1,29 @@
+
+
+.container{
+    height: 100vh;
+    width: 100vw;
+}
+
+.content-heading{
+    background-color: cyan;
+    border: 5px solid black;
+
+    /* this is a padding for content */
+
+
+    /* padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px; */
+
+    padding: 20px 40px 50px 30px;
+
+    display: block;
+    
+
+    margin: 30px 20px 40px 50px;
+
+
+}
+
