@@ -40,3 +40,22 @@
 - CSS positioning (static, relative, absolute, fixed)
 - CSS flexBox (flex container, flex items, justify-content, align-items)
 - Bootsrap
+
+
+
+- What is React
+- What is Jsx
+- about react-dom , react , index.js app.js
+- aboout variable in js, how to render the variable in jsx , name rendering with eg
+- camelCasing attribute in react
+- about date object
+- about styles in react 
+- task1 (greeting in app.js )
+- component(greeting task place it to component)
+- about function , default and other functions (add, mul , pi, double pi etc)
+- props (with image eg)
+- local machine setting up.
+- coditional rendering eg;
+- login and signup form (conditional rendering Task );
+- what is hooks and useState
+- task reat time watch

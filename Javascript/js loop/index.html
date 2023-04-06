@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <ul id="name"></ul>
+    <ul class="list-two">
+      <li>John</li>
+      <li>Peter</li>
+      <li>Susan</li>
+      <li>Anna</li>
+    </ul>
+
+    <script>
+      // First part
+      const PersonNames = ["John", "Peter", "Susan", "Anna", "Julia"];
+      let ListElement = document.getElementById("name");
+      for (x in PersonNames) {
+        ListElement.innerHTML += "<li>" + PersonNames[x] + "</li>";
+      }
+
+      // Second part
+      let listTwo = document.getElementsByClassName(".list-two");
+
+      console.log(listTwo)
+
+
+      for (let i = 0; i < listTwo.length; i++) {
+        console.log(listTwo[i].textContent);
+      }
+    </script>
+  </body>
+</html>

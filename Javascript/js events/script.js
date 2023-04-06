@@ -9,5 +9,4 @@ function liveTextDetect(){
 
     y.innerHTML = x;
 
-
 }
